@@ -13,8 +13,10 @@ This design prioritizes smooth motion, compatibility with common motor shafts, a
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d4ae7181-7f16-40e2-aca5-36c441244af9" width="60%" alt="Cycloidal Gear Reducer - View 3"/>
+  <img src="https://github.com/user-attachments/assets/a9f7d182-d8ae-4436-a316-58163c420f35" width="45%" alt="Cycloidal Reducer - Render 1"/>
+  <img src="https://github.com/user-attachments/assets/3e5242ad-9644-4c10-b2a2-9575e97ee67e" width="45%" alt="Cycloidal Reducer - Render 2"/>
 </p>
+
 
 ---
 
